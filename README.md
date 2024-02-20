@@ -1,3 +1,1 @@
-# Data_Engineering_Projects
-
-This repository contains code for various data engineering projects.
+This repository contains code for an ETL job which requires processing of data in different file formats.
